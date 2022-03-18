@@ -1,0 +1,18 @@
+﻿  Cube.cpp
+  GLUTCallbacks.cpp
+  HelloGL.cpp
+C:\Users\Robyn\Downloads\GL-t5b\GL-t5b\HelloGL\HelloGL\HelloGL.cpp(88,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Robyn\Downloads\GL-t5b\GL-t5b\HelloGL\HelloGL\HelloGL.cpp(89,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Robyn\Downloads\GL-t5b\GL-t5b\HelloGL\HelloGL\HelloGL.cpp(90,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Robyn\Downloads\GL-t5b\GL-t5b\HelloGL\HelloGL\HelloGL.cpp(92,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Robyn\Downloads\GL-t5b\GL-t5b\HelloGL\HelloGL\HelloGL.cpp(93,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Robyn\Downloads\GL-t5b\GL-t5b\HelloGL\HelloGL\HelloGL.cpp(94,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Robyn\Downloads\GL-t5b\GL-t5b\HelloGL\HelloGL\HelloGL.cpp(96,30): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Robyn\Downloads\GL-t5b\GL-t5b\HelloGL\HelloGL\HelloGL.cpp(97,30): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Robyn\Downloads\GL-t5b\GL-t5b\HelloGL\HelloGL\HelloGL.cpp(98,30): warning C4305: '=': truncation from 'double' to 'float'
+  main.cpp
+  MeshLoader.cpp
+  SceneObject.cpp
+  Texture2D.cpp
+  Generating Code...
+  HelloGL.vcxproj -> C:\Users\Robyn\Downloads\GL-t5b\GL-t5b\HelloGL\Debug\HelloGL.exe
